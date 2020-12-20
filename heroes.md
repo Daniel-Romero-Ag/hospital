@@ -11,3 +11,4 @@
 * hombre elastico
 * Mujer Invisible
 * Anng
+* Zuko
