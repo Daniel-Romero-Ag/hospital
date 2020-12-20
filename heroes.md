@@ -9,3 +9,5 @@
 * Volcán Negro
 * Carrerin
 * hombre elastico
+* Mujer Invisible
+* Anng
