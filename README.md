@@ -28,4 +28,7 @@ TEXTO ESPECIAL ENTRE BLOQUES
 2. Parte 2
     * Parte 2.n
     * Parte 2.n
-![batman](https://i.pinimg.com/originals/59/63/ba/5963ba729460bc51ced010bc27d88538.jpg)
+
+![superman](https://i.pinimg.com/originals/59/63/ba/5963ba729460bc51ced010bc27d88538.jpg)
+
+[Ver escudo](https://i.pinimg.com/originals/59/63/ba/5963ba729460bc51ced010bc27d88538.jpg)
