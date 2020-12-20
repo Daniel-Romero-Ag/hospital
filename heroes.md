@@ -14,3 +14,4 @@
 * Zuko
 * Sokka 
 * Appa
+* katara 
