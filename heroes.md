@@ -12,3 +12,6 @@
 * Mujer Invisible
 * Anng
 * Zuko
+* Sokka
+* Katara
+* Appa
