@@ -13,3 +13,4 @@
 * Anng
 * Zuko
 * Sokka 
+* Appa
