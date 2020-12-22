@@ -4,3 +4,5 @@ Batman (conocido inicialmente como Bat-Man y en español como el Hombre Murciél
 ~~~
 ![Batman](https://www.elcomercio.com/files/article_main/uploads/2019/03/29/5c9e3ddfc85ca.jpeg)
 [Ver historia completa](https://es.wikipedia.org/wiki/Batman)
+
+Batman es genial
